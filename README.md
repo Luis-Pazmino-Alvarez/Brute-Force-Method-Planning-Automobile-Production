@@ -1,4 +1,5 @@
-Brute-Force-Method-Planning-Automobile-Production
+## Brute-Force-Method-Planning-Automobile-Production
+
 This project presents a brute-force optimization model in Python to solve a real-world automobile production planning problem. Using a combinatorial approach, the model evaluates all feasible combinations of production and delivery plans to satisfy customer orders while considering delivery deadlines and plant capacity constraints.
 
 📌 Objective
