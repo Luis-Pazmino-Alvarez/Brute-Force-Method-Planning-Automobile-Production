@@ -46,6 +46,7 @@ Baseline prototype for more advanced heuristics or optimization solvers.
 Exploratory planning tool when problem size is manageable.
 
 📬 Contact
+
 Created by Luis Pazmino Alvarez, consultant in finance, economics, and predictive modeling.
 Connect with me on LinkedIn https://www.linkedin.com/in/luis-pazmino-702838248/.
 
