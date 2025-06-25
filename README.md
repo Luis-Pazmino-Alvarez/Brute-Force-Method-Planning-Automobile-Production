@@ -20,6 +20,7 @@ Fully written in Python using NumPy and Pandas.
 Transparent and modifiable logic, ideal for educational or prototyping purposes.
 
 📂 Structure
+
 Exercise_Automobiles_Solution_CC.ipynb: Jupyter Notebook containing all the code, constraints, logic, and outputs.
 
 README.md: This file, explaining project purpose and usage.
@@ -27,6 +28,7 @@ README.md: This file, explaining project purpose and usage.
 License: GPL-3.0 License
 
 🚀 How to Run
+
 Clone this repository.
 
 Open the notebook with Jupyter Notebook or Google Colab.
@@ -34,6 +36,7 @@ Open the notebook with Jupyter Notebook or Google Colab.
 Run the cells to explore how the brute-force method generates and tests all valid production scenarios.
 
 📈 Sample Output
+
 A valid production schedule that satisfies all delivery deadlines.
 
 Insight into the limitations and computational cost of brute-force algorithms in real-world contexts.
